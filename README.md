@@ -1,5 +1,5 @@
 # Outline
-## Week 2 (Feb 19)
+## Week 1 (Feb 19)
 - Tech setup
 - Python basics
 - API & Web scraping basics
