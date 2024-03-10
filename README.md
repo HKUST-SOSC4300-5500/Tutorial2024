@@ -13,3 +13,29 @@
 - ML continued [Recording](https://hkust.zoom.us/rec/share/zEzRmTU3F5zasFXmqDAXDJNjsVsc805Ea8bvebn7MHbyWouFHep1_P4Bbds8WfNO.G1hlpO7BgwfGWNdP?startTime=1709535358000)
 - Prediction evaluation
 
+## Week 4 (Mar 11) 
+- Regular expression 
+
+## Week 5 (Mar 11) 
+- Text cleaning
+
+(tentative)
+## Week 6 (Mar 18)
+- Word embedding
+
+## Week 7 (Mar 25)
+- Structural Topic Modelling
+
+## Week 8 (Apr 8)
+- Sentiment Analysis
+- Topic modelling
+
+## Week 9 (Apr 15)
+- Network basics & visualization 
+
+## Week 10 (Apr 22)
+- Twitter interaction network
+
+## Week 11 (Apr 29)
+- Network simulation
+- Image basics
