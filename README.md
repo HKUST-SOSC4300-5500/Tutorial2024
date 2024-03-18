@@ -21,7 +21,7 @@
 
 ## Week 6 (Mar 18)
 - Word embedding
-- Embedding with LLMs (Vertex AI & OpenAI)
+- Embedding with LLMs (Vertex AI & OpenAI) [Recording](https://hkust.zoom.us/rec/share/YBdzD5t7QY4SND5MjY8gKB2FPgGhEFEnBjUGcsa1idDxA2nhqJ26XvR-Ews877w.sQhQjHPJL3tTawM_?startTime=1710756178000)
 
 (tentative)
 ## Week 7 (Mar 25)
