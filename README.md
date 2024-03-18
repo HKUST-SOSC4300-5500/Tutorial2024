@@ -19,10 +19,11 @@
 ## Week 5 (Mar 11) 
 - Text cleaning
 
-(tentative)
 ## Week 6 (Mar 18)
 - Word embedding
+- Embedding with LLMs (Vertex AI & OpenAI)
 
+(tentative)
 ## Week 7 (Mar 25)
 - Structural Topic Modelling
 
