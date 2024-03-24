@@ -23,20 +23,24 @@
 - Word embedding
 - Embedding with LLMs (Vertex AI & OpenAI) [Recording](https://hkust.zoom.us/rec/share/YBdzD5t7QY4SND5MjY8gKB2FPgGhEFEnBjUGcsa1idDxA2nhqJ26XvR-Ews877w.sQhQjHPJL3tTawM_?startTime=1710756178000)
 
-(tentative)
+
 ## Week 7 (Mar 25)
+- Assignment1 review
+
+(tentative)
+## Week 8 (Apr 8)
 - Structural Topic Modelling
 
-## Week 8 (Apr 8)
+## Week 9 (Apr 15)
 - Sentiment Analysis
 - Topic modelling
 
-## Week 9 (Apr 15)
+## Week 10 (Apr 22)
 - Network basics & visualization 
 
-## Week 10 (Apr 22)
+## Week 11 (Apr 29)
 - Twitter interaction network
 
-## Week 11 (Apr 29)
+## Week 12 (May 6)
 - Network simulation
 - Image basics
