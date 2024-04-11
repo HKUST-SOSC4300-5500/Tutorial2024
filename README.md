@@ -30,11 +30,11 @@
 ## Week 7 (Apr 8)
 - Structural Topic Modelling
 
-(tentative)
 ## Week 8 (Apr 15)
 - Sentiment Analysis
 - Topic modelling
 
+(tentative)
 ## Week 9 (Apr 22)
 - Network basics & visualization 
 
