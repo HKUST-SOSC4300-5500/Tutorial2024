@@ -34,7 +34,6 @@
 - Sentiment Analysis
 - Topic modelling
 
-(tentative)
 ## Week 9 (Apr 22)
 - Network basics & visualization 
 
